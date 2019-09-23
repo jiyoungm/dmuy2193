@@ -1,0 +1,31 @@
+body {
+  background-color: #1F2740;
+}
+
+h1 {
+  color: #F20707;
+  font-family: 'Manjari', sans-serif;
+  font-family: 'Nanum Pen Script', cursive;
+  font-size: 60px;
+  text-align:center;
+}
+
+h3 {
+  color: #02CAFE;
+  font-family: 'Manjari', sans-serif;
+  font-family: 'Nanum Pen Script', cursive;
+  font-size: 20px;
+  text-align:center;
+}
+
+div{
+  padding: 20px;
+}
+
+p {
+  color: #0494E4;
+  text-align:center;
+  font-family: 'Manjari', sans-serif;
+  font-family: 'Nanum Pen Script', cursive;
+  padding: 40px;
+}
