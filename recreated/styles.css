@@ -1,0 +1,64 @@
+h1 {
+  font-family: 'Libre Baskerville', serif;
+  font-size: 175px;
+  text-align: center;
+  margin-top: 70px;
+  margin-bottom: 10px;
+}
+
+h2 {
+  text-align: center;
+  font-family: futura-pt, sans-serif;
+  font-weight: 300;
+  font-style: normal;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+h3 {
+  font-family: futura-pt, sans-serif;
+  font-weight: 600;
+  font-size: 50px;
+  font-style: normal;
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+.banner {
+  position: absolute;
+  left: 7%;
+  width: 200px;
+  height: 650px;
+  background-color: #F0C0D9;
+}
+
+.korean {
+  padding-top: 30px;
+  padding-left: 70px;
+  padding-bottom: 10px;
+  position: center;
+  writing-mode: vertical-rl;
+  font-family: 'Gothic A1', sans-serif;
+  font-weight: bold;
+  font-size: 40px;
+  color: #CC014E;
+}
+
+.english {
+  padding-left: 10px;
+  padding-right: 15px;
+  font-size: 12px;
+  font-family: 'Roboto Mono', monospace;
+  text-align: center;
+  color: #CC014E;
+}
+
+.content {
+  padding-top: 0p background-color: white;
+}
+
+p {
+  font-family: 'Roboto Mono', monospace;
+  text-align: center;
+}

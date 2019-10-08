@@ -7,7 +7,7 @@ h1 {
   font-family: 'Manjari', sans-serif;
   font-family: 'Nanum Pen Script', cursive;
   font-size: 60px;
-  text-align:center;
+  text-align: center;
 }
 
 h3 {
@@ -15,16 +15,12 @@ h3 {
   font-family: 'Manjari', sans-serif;
   font-family: 'Nanum Pen Script', cursive;
   font-size: 20px;
-  text-align:center;
-}
-
-div{
-  padding: 20px;
+  text-align: center;
 }
 
 p {
   color: #0494E4;
-  text-align:center;
+  text-align: center;
   font-family: 'Manjari', sans-serif;
   font-family: 'Nanum Pen Script', cursive;
   padding: 40px;
