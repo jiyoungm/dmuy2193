@@ -99,26 +99,26 @@ p2{
 .item4 {
     padding: 20px;
     background-color:black;
-    height: 300px;
+    height: 350px;
     grid-area: content3;
 }
 
 .item5 {
     padding: 20px;
     background-color:#F20530;
-    height: 300px;
+    height: 350px;
     grid-area: content4;
 }
 .item6 {
     padding: 20px;
     background-color:white;
-    height: 300px;
+    height: 350px;
     grid-area: content5;
 }
 .item7 {
     padding: 20px;
     background-color:#049DD9;
-    height: 300px;
+    height: 350px;
     grid-area: content6;
 }
 .item8 {
@@ -178,26 +178,26 @@ img{
 .it4 {
     padding: 20px;
     background-color:black;
-    height: 300px;
+    height: 350px;
     grid-area: content3;
 }
 
 .it5 {
     padding: 20px;
     background-color:#049DD9;
-    height: 300px;
+    height: 350px;
     grid-area: content4;
 }
 .it6 {
     padding: 20px;
     background-color:white;
-    height: 300px;
+    height: 350px;
     grid-area: content5;
 }
 .it7 {
     padding: 20px;
     background-color:#F2C61E;
-    height: 300px;
+    height: 350px;
     grid-area: content6;
 }
 .it8 {
