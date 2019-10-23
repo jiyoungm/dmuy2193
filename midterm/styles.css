@@ -63,7 +63,7 @@ p2{
   background-color: #F2C61E;
   border: none;
   color: black;
-  padding: 5px 5px;
+  padding: 10px 20px;
   text-align: center;
   display: inline-block;
   font-family: Helvetica;
@@ -75,6 +75,7 @@ p2{
 
 .item2{
     background-color:#049DD9;
+    width:600px;
     height: 500px;
     grid-area: content1;
     font-family: "Black Han Sans";
@@ -85,14 +86,11 @@ p2{
 .item3{
     background-color:black;
     height: 500px;
-    align:center;
-
     grid-area: content2;
 }
 
 .gif{
-  padding:20px;
-  align: center;
+  
 }
 
 
@@ -124,6 +122,7 @@ p2{
 .item8 {
     background-color:#049DD9;
     height: 50px;
+    width:600px;
 
     grid-area: section1;
 }.item9 {
@@ -152,6 +151,7 @@ p2{
 .it2{
     background-color:#F2C61E;
     height: 500px;
+    width: 600px;
     grid-area: content1;
     font-family: "Black Han Sans";
 
@@ -203,11 +203,12 @@ img{
 .it8 {
     background-color:#F2C61E;
     height: 50px;
-
+    width:600px;
     grid-area: section1;
 }.it9 {
     background-color:#049DD9;
     height: 50px;
+
     width: 20%;
     grid-area: sections;
 }.it10 {
