@@ -1,4 +1,27 @@
+.tooltip {
+  position: relative;
+  display: inline-block;
+}
 
+.tooltip .tooltiptext {
+  visibility: hidden;
+  width: 120px;
+  background-color: #ffcc33;
+  color: black;
+  text-align: center;
+  padding: 5px 0;
+  width: 120px;
+  top: 100%;
+  left: 50%;
+  margin-left: -60px;
+  position: absolute;
+  z-index: 1;
+}
+
+/* Show the tooltip text when you mouse over the tooltip container */
+.tooltip:hover .tooltiptext {
+  visibility: visible;
+}
 
 h1{
   font-family: 'Cabin', sans-serif;
