@@ -29,10 +29,6 @@ h1{
   font-size: 80px;
 }
 
-h1:hover{
-
-}
-
 
 h2{
   font-family: 'Roboto Mono', monospace;
@@ -222,20 +218,20 @@ a{
   display:flex;
   overflow-x: auto;
   -webkit-overflow-scrolling:touch;
-  scroll-snap-points-x: repeat(500px);
+  scroll-snap-points-x: repeat(490px);
   scroll-snap-type: mandatory;
 }
 
 .slider > div{
   flex-shrink: 0;
   width:auto;
-  height:503px;
+  height:490px;
   margin-right: 10px;
 }
 
 .img3{
   max-width:auto;
-  max-height:497px;
+  max-height:484px;
   margin-right:10px;
   display:inline-block;
   border: 3px solid black;
