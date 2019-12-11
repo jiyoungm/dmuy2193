@@ -27,6 +27,9 @@ h1{
   font-family: 'Cabin', sans-serif;
   margin-top: 200px;
   font-size: 80px;
+}
+
+h1:hover{
 
 }
 
@@ -154,8 +157,8 @@ nav a:hover {
   width:500px;
   float:left;
   display:inline-block;
-
 }
+
 .wrapper{
   display:inline;
 }
@@ -226,7 +229,7 @@ a{
 .slider > div{
   flex-shrink: 0;
   width:auto;
-  height:500px;
+  height:503px;
   margin-right: 10px;
 }
 
